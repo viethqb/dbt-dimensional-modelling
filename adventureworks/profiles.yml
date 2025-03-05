@@ -1,5 +1,5 @@
 adventureworks:
-  target: duckdb
+  target: postgres
   outputs:
     duckdb:
      type: duckdb
