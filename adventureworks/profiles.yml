@@ -8,9 +8,9 @@ adventureworks:
     postgres:  
       type: postgres
       host: localhost
-      user: postgres
-      password: postgres
+      user: data_engineer
+      password: password
       port: 5432
-      dbname: adventureworks
+      dbname: data_engineer
       schema: dbo
       threads: 12
